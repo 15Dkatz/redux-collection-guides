@@ -27,3 +27,15 @@ body {
   border: 1px solid black;
   border-radius: 2px;
 }
+
+.star {
+  cursor: pointer;
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+.link {
+  position: absolute;
+  left: 30px;
+  top: 30px;
+}
