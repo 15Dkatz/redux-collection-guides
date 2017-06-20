@@ -7,5 +7,5 @@ This repo contains the completed projects for the following applications:
 - recipefinder
 - generator
 
-**The original course link:**
-https://www.udemy.com/react-js-mastering-redux
+***
+The original course link: https://www.udemy.com/react-js-mastering-redux
